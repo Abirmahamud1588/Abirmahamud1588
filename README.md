@@ -4,7 +4,7 @@
 
     📝 I regularly do coding 
 
-    💬 Ask me about ** Programming, framework , Maching learining
+    💬 Ask me about ** Programming, framework , Maching learning
 
     ⚡ Passionate Programmer
 
