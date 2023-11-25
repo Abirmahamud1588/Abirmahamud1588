@@ -9,7 +9,7 @@
     ⚡ Passionate Programmer
 
 
-Skills: JS / PHP/ REACT JS / HTML / CSS/ LARAVEL / MACHINE LEARNING
+Skills: JS / PHP/ REACT JS / HTML / CSS/ LARAVEL / MACHINE LEARNING / Node / Typescript / Next js
 
 - 🔭 I’m currently working on Ecommerce websites 
 - 🌱 I’m currently learning DEEP LEARNING 
